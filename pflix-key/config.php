@@ -1,7 +1,7 @@
 <?php
 
 $apikey = ""; // get your own apiKey from " https://babel-in.xyz "
-$worldwide = "no"; // set yes if u wanna restream else no
+$worldwide = "yes"; // set yes if u wanna restream else no
 $genreName = "Babel-IN"; // for m3u category
 $cacheFolder = "_cache_"; // set cache folder
 $cacheTime = 60; // set cacheTime in secs
